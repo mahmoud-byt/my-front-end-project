@@ -1,2 +1,2 @@
 # my-front-end-project
-**A simple project for me**
+__A simple project for me__
